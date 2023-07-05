@@ -51,8 +51,8 @@ coverage.xml
 .pytest_cache/
 cover/
 .vscode/
-artifacts/*
-catboost_info/*
+# artifacts/*
+# catboost_info/*
 
 # Translations
 *.mo
